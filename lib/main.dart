@@ -22,7 +22,7 @@ class PaginaInicio extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Bordes de la app de Garcia"),
+        title: Text("Bordes de la app de Felix Garcia 6-J"),
         centerTitle: true,
       ), //fin appbar
       body: SingleChildScrollView(
